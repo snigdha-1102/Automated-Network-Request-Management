@@ -40,8 +40,5 @@ The project demonstration follows these stages:
 
 ## Demo Video
 
-The final project demonstration video will be added here.
+https://drive.google.com/file/d/1Zow-v-ng2Kn366F09PLSQQbQkSvZLXmF/view?usp=drive_link
 
-## Screenshots and Evidence
-
-Screenshots of the request form, approval workflow, database records, task tracking, and email previews will be added here.
