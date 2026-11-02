@@ -42,6 +42,4 @@ The documents explain the project requirements, technical architecture, ServiceN
 
 To provide clear technical and functional information about the application, including its design, implementation, configuration, testing, and future improvements.
 
-## Files
 
-PDF reports, editable documents, diagrams, and supporting screenshots will be uploaded here.
